@@ -192,6 +192,9 @@ class _HomePageState extends State<HomePage> {
             "By Devices",
             style: TextStyle(color: Colors.black, fontSize: 18),
           ),
+          const SizedBox(
+            height: 10,
+          )
         ],
       ),
     );
