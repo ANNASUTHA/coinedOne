@@ -1,0 +1,29 @@
+{
+  "success": true,
+  "data": {
+    "screenTime": {
+      "class": 4800,
+      "study": 1200,
+      "free": 1800,
+      "total": 7800
+    },
+    "freeTime": {
+      "limit": 7200,
+      "usage": 1800
+    },
+    "devices": [
+      {
+        "name": "Adi's Phone",
+        "usage": 2400
+      },
+      {
+        "name": "Adi's Laptop",
+        "usage": 2100
+      },
+      {
+        "name": "Adi's Tablet",
+        "usage": 3300
+      }
+    ]
+  }
+}
